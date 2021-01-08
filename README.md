@@ -1,5 +1,6 @@
 # resume-templates
 
+<h4>Click on the picture to see the full size</h4>
 
 <p float="left">
   <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2020.45.58.JPG?raw=true" width="325" />
