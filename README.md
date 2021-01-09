@@ -62,4 +62,52 @@
   <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.12.24.JPG?raw=true" width="325" />
   <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.12.30.JPG?raw=true" width="325" />
   <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.12.56.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.13.08.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.13.17.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.13.23.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.13.30.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.13.39.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.13.46.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.14.27.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.14.44.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.14.49.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.14.55.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.15.02.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.15.08.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.15.15.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.15.24.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.15.35.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.16.40.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.17.03.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.17.08.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.17.17.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.17.24.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.17.31.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.18.07.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.18.28.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.18.34.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.18.55.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.18.59.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.19.05.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.19.13.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.19.21.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.19.29.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.19.35.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.19.44.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.19.51.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.20.16.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.20.25.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.20.32.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.20.36.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.20.42.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.20.46.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.20.52.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.20.56.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.21.23.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.21.28.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.21.33.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.21.37.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.21.41.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.21.49.JPG?raw=true" width="325" />
+  <img src="https://github.com/Julia-talbi/resume-templates/blob/main/images/Screen%20Shot%202021-01-08%20at%2021.21.54.JPG?raw=true" width="325" />
 </p>
